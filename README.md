@@ -1,4 +1,5 @@
 # devops-aula02
 Barry Allen
-Cisco Ramon
+Harrison Wells
 Caitlin snow
+Adam sandler
